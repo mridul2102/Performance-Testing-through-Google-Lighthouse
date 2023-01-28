@@ -1,0 +1,509 @@
+D:\lighthouse>run.bat
+  LH:ChromeLauncher Waiting for browser. +0ms
+  LH:ChromeLauncher Waiting for browser... +2ms
+  LH:ChromeLauncher Waiting for browser..... +510ms
+  LH:ChromeLauncher Waiting for browser.....√ +4ms
+  LH:config:warn IFrameElements gatherer requested, however no audit requires it. +435ms
+  LH:config:warn Inputs gatherer requested, however no audit requires it. +0ms
+  LH:status Connecting to browser +63ms
+  LH:status Resetting state with about:blank +24ms
+  LH:status Navigating to about:blank +1ms
+  LH:status Benchmarking machine +101ms
+  LH:status Initializing… +1s
+  LH:status Preparing target for navigation mode +6ms
+  LH:status Running defaultPass pass CSSUsage, JsUsage, ViewportDimensions, ConsoleMessages, AnchorElements, ImageElements, LinkElements, MetaElements, ScriptElements, IFrameElements, Inputs, MainDocumentContent, GlobalListeners, Doctype, DOMStats, OptimizedImages, PasswordInputsWithPreventedPaste, ResponseCompression, TagsBlockingFirstPaint, FontSize, EmbeddedContent, RobotsTxt, TapTargets, Accessibility, TraceElements, InspectorIssues, SourceMaps, FullPageScreenshot +16ms
+  LH:status Resetting state with about:blank +0ms
+  LH:status Navigating to about:blank +1ms
+  LH:status Preparing target for navigation +15ms
+  LH:status Cleaning origin data +391ms
+  LH:status Cleaning browser cache +33ms
+  LH:status Preparing network conditions +32ms
+  LH:status Beginning devtoolsLog and trace +31ms
+  LH:status Loading page & waiting for onload +58ms
+  LH:status Navigating to https://www.google.com/ +1ms
+  LH:status Gathering in-page: CSSUsage +7s
+  LH:status Gathering in-page: JsUsage +1ms
+  LH:status Gathering in-page: ViewportDimensions +0ms
+  LH:status Gathering in-page: ConsoleMessages +0ms
+  LH:status Gathering in-page: AnchorElements +1ms
+  LH:status Gathering in-page: ImageElements +0ms
+  LH:status Gathering in-page: LinkElements +0ms
+  LH:status Gathering in-page: MetaElements +0ms
+  LH:status Gathering in-page: ScriptElements +0ms
+  LH:status Gathering in-page: IFrameElements +1ms
+  LH:status Gathering in-page: Inputs +0ms
+  LH:status Gathering in-page: MainDocumentContent +0ms
+  LH:status Gathering in-page: GlobalListeners +1ms
+  LH:status Gathering in-page: Doctype +0ms
+  LH:status Gathering in-page: DOMStats +0ms
+  LH:status Gathering in-page: OptimizedImages +1ms
+  LH:status Gathering in-page: PasswordInputsWithPreventedPaste +0ms
+  LH:status Gathering in-page: ResponseCompression +0ms
+  LH:status Gathering in-page: TagsBlockingFirstPaint +1ms
+  LH:status Gathering in-page: FontSize +0ms
+  LH:status Gathering in-page: EmbeddedContent +0ms
+  LH:status Gathering in-page: RobotsTxt +0ms
+  LH:status Gathering in-page: TapTargets +0ms
+  LH:status Gathering in-page: Accessibility +1ms
+  LH:status Gathering in-page: TraceElements +0ms
+  LH:status Gathering in-page: InspectorIssues +2ms
+  LH:status Gathering in-page: SourceMaps +1ms
+  LH:status Gathering in-page: FullPageScreenshot +12ms
+  LH:status Gathering trace +1ms
+  LH:status Gathering devtoolsLog & network records +258ms
+  LH:status Gathering: CSSUsage +11ms
+  LH:status Gathering: JsUsage +942ms
+  LH:status Gathering: ViewportDimensions +105ms
+  LH:status Gathering: ConsoleMessages +6ms
+  LH:status Gathering: AnchorElements +8ms
+  LH:status Gathering: ImageElements +88ms
+  LH:status Gathering: LinkElements +107ms
+  LH:status Gathering: MetaElements +12ms
+  LH:status Gathering: ScriptElements +12ms
+  LH:status Gathering: IFrameElements +74ms
+  LH:status Gathering: Inputs +8ms
+  LH:status Gathering: MainDocumentContent +9ms
+  LH:status Gathering: GlobalListeners +13ms
+  LH:status Gathering: Doctype +11ms
+  LH:status Gathering: DOMStats +7ms
+  LH:status Gathering: OptimizedImages +18ms
+  LH:status Gathering: PasswordInputsWithPreventedPaste +33ms
+  LH:status Gathering: ResponseCompression +8ms
+  LH:status Gathering: TagsBlockingFirstPaint +4ms
+  LH:status Gathering: FontSize +8ms
+  LH:status Gathering: EmbeddedContent +38ms
+  LH:status Gathering: RobotsTxt +8ms
+  LH:status Gathering: TapTargets +223ms
+  LH:status Gathering: Accessibility +55ms
+  LH:status Gathering: TraceElements +291ms
+  LH:status Gathering: InspectorIssues +135ms
+  LH:status Gathering: SourceMaps +6ms
+  LH:status Gathering: FullPageScreenshot +3ms
+  LH:status Populate base artifacts +5s
+  LH:status Get webapp manifest +1ms
+  LH:status Get webapp installability errors +23ms
+  LH:status Collect stacks +2ms
+  LH:status Running offlinePass pass ServiceWorker +38ms
+  LH:status Resetting state with about:blank +1ms
+  LH:status Navigating to about:blank +3ms
+  LH:status Preparing target for navigation +51ms
+  LH:status Preparing network conditions +0ms
+  LH:status Beginning devtoolsLog and trace +19ms
+  LH:status Loading page & waiting for onload +0ms
+  LH:status Navigating to https://www.google.com/ +3ms
+  LH:status Gathering in-page: ServiceWorker +2s
+  LH:status Gathering devtoolsLog & network records +1ms
+  LH:status Gathering: ServiceWorker +17ms
+  LH:status Disconnecting from browser... +4ms
+  LH:status Cleaning origin data +1ms
+  LH:status Analyzing and running audits... +31ms
+  LH:status Auditing: Uses HTTPS +7ms
+  LH:status Auditing: Registers a service worker that controls page and `start_url` +9ms
+  LH:status Auditing: Has a `<meta name="viewport">` tag with `width` or `initial-scale` +10ms
+  LH:status Auditing: First Contentful Paint +13ms
+  LH:status Auditing: Largest Contentful Paint +48ms
+  LH:status Auditing: First Meaningful Paint +12ms
+  LH:status Auditing: Speed Index +13ms
+  LH:status Auditing: Screenshot Thumbnails +524ms
+  LH:status Auditing: Final Screenshot +258ms
+  LH:status Auditing: Total Blocking Time +5ms
+  LH:status Auditing: Max Potential First Input Delay +19ms
+  LH:status Auditing: Cumulative Layout Shift +10ms
+  LH:status Auditing: No browser errors logged to the console +6ms
+  LH:status Auditing: Initial server response time was short +7ms
+  LH:status Auditing: Time to Interactive +7ms
+  LH:status Auditing: User Timing marks and measures +3ms
+  LH:status Auditing: Avoid chaining critical requests +9ms
+  LH:status Auditing: Avoid multiple page redirects +9ms
+  LH:status Auditing: Web app manifest and service worker meet the installability requirements +6ms
+  LH:status Auditing: Provides a valid `apple-touch-icon` +4ms
+  LH:status Auditing: Configured for a custom splash screen +9ms
+  LH:status Auditing: Sets a theme color for the address bar. +4ms
+  LH:status Auditing: Manifest has a maskable icon +3ms
+  LH:status Auditing: Content is sized correctly for the viewport +2ms
+  LH:status Auditing: Displays images with correct aspect ratio +3ms
+  LH:status Auditing: Serves images with appropriate resolution +3ms
+  LH:status Auditing: Fonts with `font-display: optional` are preloaded +3ms
+  LH:status Auditing: Avoids deprecated APIs +2ms
+  LH:status Auditing: Minimizes main-thread work +4ms
+  LH:status Auditing: JavaScript execution time +18ms
+  LH:status Auditing: Preload key requests +7ms
+  LH:status Auditing: Preconnect to required origins +3ms
+  LH:status Auditing: All text remains visible during webfont loads +4ms
+  LH:status Auditing: Diagnostics +5ms
+  LH:status Auditing: Network Requests +2ms
+  LH:status Auditing: Network Round Trip Times +3ms
+  LH:status Auditing: Server Backend Latencies +5ms
+  LH:status Auditing: Tasks +3ms
+  LH:status Auditing: Metrics +2ms
+  LH:status Auditing: Performance budget +2ms
+  LH:status Auditing: Timing budget +4ms
+  LH:status Auditing: Keep request counts low and transfer sizes small +2ms
+  LH:status Auditing: Minimize third-party usage +7ms
+  LH:status Auditing: Lazy load third-party resources with facades +9ms
+  LH:status Auditing: Largest Contentful Paint element +6ms
+  LH:status Auditing: Largest Contentful Paint image was not lazily loaded +4ms
+  LH:status Auditing: Avoid large layout shifts +3ms
+  LH:status Auditing: Avoid long main-thread tasks +4ms
+  LH:status Auditing: Avoids `unload` event listeners +7ms
+  LH:status Auditing: Avoid non-composited animations +3ms
+  LH:status Auditing: Image elements have explicit `width` and `height` +2ms
+  LH:status Auditing: Page has valid source maps +3ms
+  LH:status Auditing: Preload Largest Contentful Paint image +3ms
+  LH:status Auditing: Ensure CSP is effective against XSS attacks +2ms
+  LH:status Auditing: Full-page screenshot +3ms
+  LH:status Auditing: Script Treemap Data +0ms
+  LH:status Auditing: Site works cross-browser +43ms
+  LH:status Auditing: Page transitions don't feel like they block on the network +2ms
+  LH:status Auditing: Each page has a URL +2ms
+  LH:status Auditing: `[accesskey]` values are unique +2ms
+  LH:status Auditing: `[aria-*]` attributes match their roles +2ms
+  LH:status Auditing: `button`, `link`, and `menuitem` elements have accessible names +9ms
+  LH:status Auditing: `[aria-hidden="true"]` is not present on the document `<body>` +8ms
+  LH:status Auditing: `[aria-hidden="true"]` elements do not contain focusable descendents +8ms
+  LH:status Auditing: ARIA input fields have accessible names +6ms
+  LH:status Auditing: ARIA `meter` elements have accessible names +3ms
+  LH:status Auditing: ARIA `progressbar` elements have accessible names +3ms
+  LH:status Auditing: `[role]`s have all required `[aria-*]` attributes +3ms
+  LH:status Auditing: Elements with an ARIA `[role]` that require children to contain a specific `[role]` have all required children. +13ms
+  LH:status Auditing: `[role]`s are contained by their required parent element +7ms
+  LH:status Auditing: `[role]` values are valid +4ms
+  LH:status Auditing: ARIA toggle fields have accessible names +6ms
+  LH:status Auditing: ARIA `tooltip` elements have accessible names +4ms
+  LH:status Auditing: ARIA `treeitem` elements have accessible names +4ms
+  LH:status Auditing: `[aria-*]` attributes have valid values +5ms
+  LH:status Auditing: `[aria-*]` attributes are valid and not misspelled +7ms
+  LH:status Auditing: Buttons have an accessible name +7ms
+  LH:status Auditing: The page contains a heading, skip link, or landmark region +7ms
+  LH:status Auditing: Background and foreground colors have a sufficient contrast ratio +6ms
+  LH:status Auditing: `<dl>`'s contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements. +7ms
+  LH:status Auditing: Definition list items are wrapped in `<dl>` elements +6ms
+  LH:status Auditing: Document has a `<title>` element +5ms
+  LH:status Auditing: `[id]` attributes on active, focusable elements are unique +7ms
+  LH:status Auditing: ARIA IDs are unique +8ms
+  LH:status Auditing: No form fields have multiple labels +5ms
+  LH:status Auditing: `<frame>` or `<iframe>` elements have a title +6ms
+  LH:status Auditing: Heading elements appear in a sequentially-descending order +5ms
+  LH:status Auditing: `<html>` element has a `[lang]` attribute +6ms
+  LH:status Auditing: `<html>` element has a valid value for its `[lang]` attribute +10ms
+  LH:status Auditing: Image elements have `[alt]` attributes +7ms
+  LH:status Auditing: `<input type="image">` elements have `[alt]` text +6ms
+  LH:status Auditing: Form elements have associated labels +6ms
+  LH:status Auditing: Links have a discernible name +6ms
+  LH:status Auditing: Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`). +9ms
+  LH:status Auditing: List items (`<li>`) are contained within `<ul>` or `<ol>` parent elements +9ms
+  LH:status Auditing: The document does not use `<meta http-equiv="refresh">` +6ms
+  LH:status Auditing: `[user-scalable="no"]` is not used in the `<meta name="viewport">` element and the `[maximum-scale]` attribute is not less than 5. +7ms
+  LH:status Auditing: `<object>` elements have alternate text +12ms
+  LH:status Auditing: No element has a `[tabindex]` value greater than 0 +7ms
+  LH:status Auditing: Cells in a `<table>` element that use the `[headers]` attribute refer to table cells within the same table. +11ms
+  LH:status Auditing: `<th>` elements and elements with `[role="columnheader"/"rowheader"]` have data cells they describe. +7ms
+  LH:status Auditing: `[lang]` attributes have a valid value +8ms
+  LH:status Auditing: `<video>` elements contain a `<track>` element with `[kind="captions"]` +5ms
+  LH:status Auditing: Custom controls have associated labels +6ms
+  LH:status Auditing: Custom controls have ARIA roles +1ms
+  LH:status Auditing: User focus is not accidentally trapped in a region +4ms
+  LH:status Auditing: Interactive controls are keyboard focusable +1ms
+  LH:status Auditing: Interactive elements indicate their purpose and state +1ms
+  LH:status Auditing: The page has a logical tab order +1ms
+  LH:status Auditing: The user's focus is directed to new content added to the page +0ms
+  LH:status Auditing: Offscreen content is hidden from assistive technology +1ms
+  LH:status Auditing: HTML5 landmark elements are used to improve navigation +1ms
+  LH:status Auditing: Visual order on the page follows DOM order +1ms
+  LH:status Auditing: Uses efficient cache policy on static assets +7ms
+  LH:status Auditing: Avoids enormous network payloads +5ms
+  LH:status Auditing: Defer offscreen images +5ms
+  LH:status Auditing: Eliminate render-blocking resources +11ms
+  LH:status Auditing: Minify CSS +5ms
+  LH:status Auditing: Minify JavaScript +15ms
+  LH:status Auditing: Reduce unused CSS +100ms
+  LH:status Auditing: Reduce unused JavaScript +6ms
+  LH:status Auditing: Serve images in next-gen formats +8ms
+  LH:status Auditing: Efficiently encode images +5ms
+  LH:status Auditing: Enable text compression +8ms
+  LH:status Auditing: Properly size images +7ms
+  LH:status Auditing: Use video formats for animated content +5ms
+  LH:status Auditing: Remove duplicate modules in JavaScript bundles +9ms
+  LH:status Auditing: Avoid serving legacy JavaScript to modern browsers +4ms
+  LH:status Auditing: Page has the HTML doctype +64ms
+  LH:status Auditing: Properly defines charset +4ms
+  LH:status Auditing: Avoids an excessive DOM size +4ms
+  LH:status Auditing: Avoids requesting the geolocation permission on page load +5ms
+  LH:status Auditing: No issues in the `Issues` panel in Chrome Devtools +3ms
+  LH:status Auditing: Avoids `document.write()` +4ms
+  LH:status Auditing: Avoids front-end JavaScript libraries with known security vulnerabilities +2ms
+  LH:status Auditing: Detected JavaScript libraries +3ms
+  LH:status Auditing: Avoids requesting the notification permission on page load +2ms
+  LH:status Auditing: Allows users to paste into password fields +2ms
+  LH:status Auditing: Use HTTP/2 +4ms
+  LH:status Auditing: Uses passive listeners to improve scrolling performance +7ms
+  LH:status Auditing: Document has a meta description +2ms
+  LH:status Auditing: Page has successful HTTP status code +3ms
+  LH:status Auditing: Document uses legible font sizes +5ms
+  LH:status Auditing: Links have descriptive text +5ms
+  LH:status Auditing: Links are crawlable +4ms
+  LH:status Auditing: Page isn’t blocked from indexing +9ms
+  LH:status Auditing: robots.txt is valid +8ms
+  LH:status Auditing: Tap targets are sized appropriately +5ms
+  LH:status Auditing: Document has a valid `hreflang` +7ms
+  LH:status Auditing: Document avoids plugins +3ms
+  LH:status Auditing: Document has a valid `rel=canonical` +3ms
+  LH:status Auditing: Structured data is valid +3ms
+  LH:status Generating results... +2ms
+  LH:Printer html output written to D:\lighthouse\www.google.com_2023-01-28_18-33-20.report.html +51ms
+  LH:ChromeLauncher Killing Chrome instance 8680 +2ms
+  LH:ChromeLauncher Waiting for browser. +0ms
+  LH:ChromeLauncher Waiting for browser... +8ms
+  LH:ChromeLauncher Waiting for browser..... +521ms
+  LH:ChromeLauncher Waiting for browser.....√ +6ms
+  LH:config:warn IFrameElements gatherer requested, however no audit requires it. +718ms
+  LH:config:warn Inputs gatherer requested, however no audit requires it. +0ms
+  LH:status Connecting to browser +111ms
+  LH:status Resetting state with about:blank +17ms
+  LH:status Navigating to about:blank +1ms
+  LH:status Benchmarking machine +98ms
+  LH:status Initializing… +1s
+  LH:status Preparing target for navigation mode +9ms
+  LH:status Running defaultPass pass CSSUsage, JsUsage, ViewportDimensions, ConsoleMessages, AnchorElements, ImageElements, LinkElements, MetaElements, ScriptElements, IFrameElements, Inputs, MainDocumentContent, GlobalListeners, Doctype, DOMStats, OptimizedImages, PasswordInputsWithPreventedPaste, ResponseCompression, TagsBlockingFirstPaint, FontSize, EmbeddedContent, RobotsTxt, TapTargets, Accessibility, TraceElements, InspectorIssues, SourceMaps, FullPageScreenshot +33ms
+  LH:status Resetting state with about:blank +1ms
+  LH:status Navigating to about:blank +2ms
+  LH:status Preparing target for navigation +19ms
+  LH:status Cleaning origin data +384ms
+  LH:status Cleaning browser cache +30ms
+  LH:status Preparing network conditions +137ms
+  LH:status Beginning devtoolsLog and trace +60ms
+  LH:status Loading page & waiting for onload +140ms
+  LH:status Navigating to https://www.amazon.com/ +1ms
+  LH:status Gathering in-page: CSSUsage +12s
+  LH:status Gathering in-page: JsUsage +1ms
+  LH:status Gathering in-page: ViewportDimensions +5ms
+  LH:status Gathering in-page: ConsoleMessages +3ms
+  LH:status Gathering in-page: AnchorElements +2ms
+  LH:status Gathering in-page: ImageElements +1ms
+  LH:status Gathering in-page: LinkElements +1ms
+  LH:status Gathering in-page: MetaElements +1ms
+  LH:status Gathering in-page: ScriptElements +1ms
+  LH:status Gathering in-page: IFrameElements +1ms
+  LH:status Gathering in-page: Inputs +2ms
+  LH:status Gathering in-page: MainDocumentContent +1ms
+  LH:status Gathering in-page: GlobalListeners +1ms
+  LH:status Gathering in-page: Doctype +1ms
+  LH:status Gathering in-page: DOMStats +1ms
+  LH:status Gathering in-page: OptimizedImages +2ms
+  LH:status Gathering in-page: PasswordInputsWithPreventedPaste +1ms
+  LH:status Gathering in-page: ResponseCompression +7ms
+  LH:status Gathering in-page: TagsBlockingFirstPaint +2ms
+  LH:status Gathering in-page: FontSize +2ms
+  LH:status Gathering in-page: EmbeddedContent +1ms
+  LH:status Gathering in-page: RobotsTxt +0ms
+  LH:status Gathering in-page: TapTargets +1ms
+  LH:status Gathering in-page: Accessibility +0ms
+  LH:status Gathering in-page: TraceElements +1ms
+  LH:status Gathering in-page: InspectorIssues +1ms
+  LH:status Gathering in-page: SourceMaps +0ms
+  LH:status Gathering in-page: FullPageScreenshot +1ms
+  LH:status Gathering trace +9ms
+  LH:status Gathering devtoolsLog & network records +868ms
+  LH:status Gathering: CSSUsage +31ms
+  LH:status Gathering: JsUsage +105ms
+  LH:status Gathering: ViewportDimensions +108ms
+  LH:status Gathering: ConsoleMessages +7ms
+  LH:status Gathering: AnchorElements +8ms
+  LH:status Gathering: ImageElements +233ms
+  LH:status Gathering: LinkElements +791ms
+  LH:status Gathering: MetaElements +21ms
+  LH:status Gathering: ScriptElements +21ms
+  LH:status Gathering: IFrameElements +116ms
+  LH:status Gathering: Inputs +12ms
+  LH:status Gathering: MainDocumentContent +18ms
+  LH:status Gathering: GlobalListeners +40ms
+  LH:status Gathering: Doctype +10ms
+  LH:status Gathering: DOMStats +7ms
+  LH:status Gathering: OptimizedImages +19ms
+  LH:status Gathering: PasswordInputsWithPreventedPaste +2s
+  LH:status Gathering: ResponseCompression +10ms
+  LH:status Gathering: TagsBlockingFirstPaint +11ms
+  LH:status Gathering: FontSize +9ms
+  LH:status Gathering: EmbeddedContent +266ms
+  LH:status Gathering: RobotsTxt +9ms
+  LH:status Gathering: TapTargets +516ms
+  LH:status Gathering: Accessibility +96ms
+  LH:status Gathering: TraceElements +700ms
+  LH:status Gathering: InspectorIssues +270ms
+  LH:status Gathering: SourceMaps +7ms
+  LH:status Gathering: FullPageScreenshot +5ms
+  LH:status Populate base artifacts +2s
+  LH:status Get webapp manifest +0ms
+  LH:status Get webapp installability errors +43ms
+  LH:status Collect stacks +3ms
+  LH:status Running offlinePass pass ServiceWorker +90ms
+  LH:status Resetting state with about:blank +0ms
+  LH:status Navigating to about:blank +5ms
+  LH:status Preparing target for navigation +62ms
+  LH:status Preparing network conditions +1ms
+  LH:status Beginning devtoolsLog and trace +9ms
+  LH:status Loading page & waiting for onload +0ms
+  LH:status Navigating to https://www.amazon.com/ +1ms
+  LH:status Gathering in-page: ServiceWorker +3s
+  LH:status Gathering devtoolsLog & network records +1ms
+  LH:status Gathering: ServiceWorker +40ms
+  LH:status Disconnecting from browser... +5ms
+  LH:status Cleaning origin data +1ms
+  LH:status Analyzing and running audits... +33ms
+  LH:status Auditing: Uses HTTPS +6ms
+  LH:status Auditing: Registers a service worker that controls page and `start_url` +8ms
+  LH:status Auditing: Has a `<meta name="viewport">` tag with `width` or `initial-scale` +12ms
+  LH:status Auditing: First Contentful Paint +9ms
+  LH:status Auditing: Largest Contentful Paint +120ms
+  LH:status Auditing: First Meaningful Paint +16ms
+  LH:status Auditing: Speed Index +19ms
+  LH:status Auditing: Screenshot Thumbnails +814ms
+  LH:status Auditing: Final Screenshot +302ms
+  LH:status Auditing: Total Blocking Time +5ms
+  LH:status Auditing: Max Potential First Input Delay +46ms
+  LH:status Auditing: Cumulative Layout Shift +29ms
+  LH:status Auditing: No browser errors logged to the console +3ms
+  LH:status Auditing: Initial server response time was short +7ms
+  LH:status Auditing: Time to Interactive +3ms
+  LH:status Auditing: User Timing marks and measures +5ms
+  LH:status Auditing: Avoid chaining critical requests +9ms
+  LH:status Auditing: Avoid multiple page redirects +6ms
+  LH:status Auditing: Web app manifest and service worker meet the installability requirements +11ms
+  LH:status Auditing: Provides a valid `apple-touch-icon` +10ms
+  LH:status Auditing: Configured for a custom splash screen +8ms
+  LH:status Auditing: Sets a theme color for the address bar. +6ms
+  LH:status Auditing: Manifest has a maskable icon +5ms
+  LH:status Auditing: Content is sized correctly for the viewport +5ms
+  LH:status Auditing: Displays images with correct aspect ratio +2ms
+  LH:status Auditing: Serves images with appropriate resolution +11ms
+  LH:status Auditing: Fonts with `font-display: optional` are preloaded +5ms
+  LH:status Auditing: Avoids deprecated APIs +2ms
+  LH:status Auditing: Minimizes main-thread work +3ms
+  LH:status Auditing: JavaScript execution time +80ms
+  LH:status Auditing: Preload key requests +26ms
+  LH:status Auditing: Preconnect to required origins +5ms
+  LH:status Auditing: All text remains visible during webfont loads +5ms
+  LH:status Auditing: Diagnostics +7ms
+  LH:status Auditing: Network Requests +3ms
+  LH:status Auditing: Network Round Trip Times +6ms
+  LH:status Auditing: Server Backend Latencies +4ms
+  LH:status Auditing: Tasks +3ms
+  LH:status Auditing: Metrics +2ms
+  LH:status Auditing: Performance budget +4ms
+  LH:status Auditing: Timing budget +12ms
+  LH:status Auditing: Keep request counts low and transfer sizes small +3ms
+  LH:status Auditing: Minimize third-party usage +6ms
+  LH:status Auditing: Lazy load third-party resources with facades +20ms
+  LH:status Auditing: Largest Contentful Paint element +16ms
+  LH:status Auditing: Largest Contentful Paint image was not lazily loaded +3ms
+  LH:status Auditing: Avoid large layout shifts +2ms
+  LH:status Auditing: Avoid long main-thread tasks +2ms
+  LH:status Auditing: Avoids `unload` event listeners +20ms
+  LH:status Auditing: Avoid non-composited animations +5ms
+  LH:status Auditing: Image elements have explicit `width` and `height` +5ms
+  LH:status Auditing: Page has valid source maps +3ms
+  LH:status Auditing: Preload Largest Contentful Paint image +3ms
+  LH:status Auditing: Ensure CSP is effective against XSS attacks +2ms
+  LH:status Auditing: Full-page screenshot +6ms
+  LH:status Auditing: Script Treemap Data +1ms
+  LH:status Auditing: Site works cross-browser +26ms
+  LH:status Auditing: Page transitions don't feel like they block on the network +2ms
+  LH:status Auditing: Each page has a URL +6ms
+  LH:status Auditing: `[accesskey]` values are unique +2ms
+  LH:status Auditing: `[aria-*]` attributes match their roles +2ms
+  LH:status Auditing: `button`, `link`, and `menuitem` elements have accessible names +5ms
+  LH:status Auditing: `[aria-hidden="true"]` is not present on the document `<body>` +3ms
+  LH:status Auditing: `[aria-hidden="true"]` elements do not contain focusable descendents +6ms
+  LH:status Auditing: ARIA input fields have accessible names +7ms
+  LH:status Auditing: ARIA `meter` elements have accessible names +3ms
+  LH:status Auditing: ARIA `progressbar` elements have accessible names +3ms
+  LH:status Auditing: `[role]`s have all required `[aria-*]` attributes +3ms
+  LH:status Auditing: Elements with an ARIA `[role]` that require children to contain a specific `[role]` have all required children. +6ms
+  LH:status Auditing: `[role]`s are contained by their required parent element +7ms
+  LH:status Auditing: `[role]` values are valid +6ms
+  LH:status Auditing: ARIA toggle fields have accessible names +7ms
+  LH:status Auditing: ARIA `tooltip` elements have accessible names +3ms
+  LH:status Auditing: ARIA `treeitem` elements have accessible names +4ms
+  LH:status Auditing: `[aria-*]` attributes have valid values +6ms
+  LH:status Auditing: `[aria-*]` attributes are valid and not misspelled +7ms
+  LH:status Auditing: Buttons have an accessible name +5ms
+  LH:status Auditing: The page contains a heading, skip link, or landmark region +4ms
+  LH:status Auditing: Background and foreground colors have a sufficient contrast ratio +6ms
+  LH:status Auditing: `<dl>`'s contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements. +10ms
+  LH:status Auditing: Definition list items are wrapped in `<dl>` elements +5ms
+  LH:status Auditing: Document has a `<title>` element +4ms
+  LH:status Auditing: `[id]` attributes on active, focusable elements are unique +8ms
+  LH:status Auditing: ARIA IDs are unique +7ms
+  LH:status Auditing: No form fields have multiple labels +7ms
+  LH:status Auditing: `<frame>` or `<iframe>` elements have a title +6ms
+  LH:status Auditing: Heading elements appear in a sequentially-descending order +4ms
+  LH:status Auditing: `<html>` element has a `[lang]` attribute +6ms
+  LH:status Auditing: `<html>` element has a valid value for its `[lang]` attribute +7ms
+  LH:status Auditing: Image elements have `[alt]` attributes +7ms
+  LH:status Auditing: `<input type="image">` elements have `[alt]` text +5ms
+  LH:status Auditing: Form elements have associated labels +6ms
+  LH:status Auditing: Links have a discernible name +6ms
+  LH:status Auditing: Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`). +5ms
+  LH:status Auditing: List items (`<li>`) are contained within `<ul>` or `<ol>` parent elements +10ms
+  LH:status Auditing: The document does not use `<meta http-equiv="refresh">` +6ms
+  LH:status Auditing: `[user-scalable="no"]` is not used in the `<meta name="viewport">` element and the `[maximum-scale]` attribute is not less than 5. +4ms
+  LH:status Auditing: `<object>` elements have alternate text +9ms
+  LH:status Auditing: No element has a `[tabindex]` value greater than 0 +4ms
+  LH:status Auditing: Cells in a `<table>` element that use the `[headers]` attribute refer to table cells within the same table. +6ms
+  LH:status Auditing: `<th>` elements and elements with `[role="columnheader"/"rowheader"]` have data cells they describe. +8ms
+  LH:status Auditing: `[lang]` attributes have a valid value +6ms
+  LH:status Auditing: `<video>` elements contain a `<track>` element with `[kind="captions"]` +5ms
+  LH:status Auditing: Custom controls have associated labels +6ms
+  LH:status Auditing: Custom controls have ARIA roles +0ms
+  LH:status Auditing: User focus is not accidentally trapped in a region +1ms
+  LH:status Auditing: Interactive controls are keyboard focusable +1ms
+  LH:status Auditing: Interactive elements indicate their purpose and state +2ms
+  LH:status Auditing: The page has a logical tab order +1ms
+  LH:status Auditing: The user's focus is directed to new content added to the page +3ms
+  LH:status Auditing: Offscreen content is hidden from assistive technology +1ms
+  LH:status Auditing: HTML5 landmark elements are used to improve navigation +1ms
+  LH:status Auditing: Visual order on the page follows DOM order +1ms
+  LH:status Auditing: Uses efficient cache policy on static assets +2ms
+  LH:status Auditing: Avoids enormous network payloads +6ms
+  LH:status Auditing: Defer offscreen images +5ms
+  LH:status Auditing: Eliminate render-blocking resources +32ms
+  LH:status Auditing: Minify CSS +12ms
+  LH:status Auditing: Minify JavaScript +56ms
+  LH:status Auditing: Reduce unused CSS +124ms
+  LH:status Auditing: Reduce unused JavaScript +28ms
+  LH:status Auditing: Serve images in next-gen formats +23ms
+  LH:status Auditing: Efficiently encode images +50ms
+  LH:status Auditing: Enable text compression +37ms
+  LH:status Auditing: Properly size images +27ms
+  LH:status Auditing: Use video formats for animated content +21ms
+  LH:status Auditing: Remove duplicate modules in JavaScript bundles +19ms
+  LH:status Auditing: Avoid serving legacy JavaScript to modern browsers +25ms
+  LH:status Auditing: Page has the HTML doctype +61ms
+  LH:status Auditing: Properly defines charset +2ms
+  LH:status Auditing: Avoids an excessive DOM size +5ms
+  LH:status Auditing: Avoids requesting the geolocation permission on page load +5ms
+  LH:status Auditing: No issues in the `Issues` panel in Chrome Devtools +3ms
+  LH:status Auditing: Avoids `document.write()` +4ms
+  LH:status Auditing: Avoids front-end JavaScript libraries with known security vulnerabilities +2ms
+  LH:status Auditing: Detected JavaScript libraries +3ms
+  LH:status Auditing: Avoids requesting the notification permission on page load +2ms
+  LH:status Auditing: Allows users to paste into password fields +6ms
+  LH:status Auditing: Use HTTP/2 +1ms
+  LH:status Auditing: Uses passive listeners to improve scrolling performance +23ms
+  LH:status Auditing: Document has a meta description +3ms
+  LH:status Auditing: Page has successful HTTP status code +2ms
+  LH:status Auditing: Document uses legible font sizes +2ms
+  LH:status Auditing: Links have descriptive text +3ms
+  LH:status Auditing: Links are crawlable +5ms
+  LH:status Auditing: Page isn’t blocked from indexing +10ms
+  LH:status Auditing: robots.txt is valid +4ms
+  LH:status Auditing: Tap targets are sized appropriately +3ms
+  LH:status Auditing: Document has a valid `hreflang` +6ms
+  LH:status Auditing: Document avoids plugins +2ms
+  LH:status Auditing: Document has a valid `rel=canonical` +2ms
+  LH:status Auditing: Structured data is valid +2ms
+  LH:status Generating results... +1ms
+  LH:Printer html output written to D:\lighthouse\www.amazon.com_2023-01-28_18-33-43.report.html +56ms
+  LH:ChromeLauncher Killing Chrome instance 2832 +2ms
+
+D:\lighthouse>
